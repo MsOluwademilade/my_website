@@ -1,0 +1,137 @@
+@media (min-width: 576px) {
+  .navbar-light .navbar-brand {
+    font-size:27px;
+    font-weight:600;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar-light .navbar-brand {
+    font-size:19px;
+    font-weight:600;
+  }
+}
+
+.footer-social a {
+  padding:5px;
+  color:#ffffff;
+}
+
+.patner-image img {
+  width:125px;
+  padding-left:10px;
+}
+
+@media (min-width: 768px) {
+  .section {
+    padding:106px 0px;
+  }
+}
+
+@media (max-width: 576px) {
+  .section {
+    padding:25px 21px;
+  }
+}
+
+@media (max-width: 576px) {
+  .carousel-item.head {
+    height:180px;
+  }
+}
+
+@media (min-width: 768px) {
+  .carousel-item.head {
+    height:94vh;
+  }
+}
+
+@media (max-width: 576px) {
+  .about-us {
+    width:256px;
+  }
+}
+
+.under:after {
+  position:absolute;
+  content:"";
+  height:3px;
+  background-color:#bb0a54;
+  z-index:8;
+  width:39px;
+  bottom:13px;
+  left:48%;
+}
+
+label {
+  font-weight:600;
+  color:#404140;
+}
+
+.faq-item {
+  display:block;
+  font-weight:700;
+  text-indent:8px;
+  padding:5px 0;
+}
+
+@media (max-width: 576px) {
+  .contact-head {
+    height:176px;
+  }
+}
+
+@media (min-width: 768px) {
+  .contact-head {
+    height:250px;
+  }
+}
+
+@media (max-width: 576px) {
+  .about-head {
+    height:176px;
+  }
+}
+
+@media (min-width: 768px) {
+  .about-head {
+    height:320px;
+  }
+}
+
+@media (min-width: 768px) {
+  .what-we {
+    padding:35px 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .what-we {
+    padding:10px 0;
+  }
+}
+
+.form-group {
+  position:relative;
+}
+
+.faq-list > li {
+  margin-top:10px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color:#28a745;
+}
+
+@media (min-width: 768px) {
+  .dash {
+    padding:57px 0 250px 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .home-hea {
+    font-size:21px;
+  }
+}
+
